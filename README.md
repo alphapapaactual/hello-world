@@ -1,2 +1,6 @@
 # hello-world
-projectX
+
+Hi Humans!
+
+Patrik here, I like Teal organizations and blockchain technology. 
+
